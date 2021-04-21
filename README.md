@@ -13,7 +13,7 @@ Actively looking for my first opportunity in software engineering.
 
 ## Applications I use
 - ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-- `PostBird`
+- ![POSTBIRD](https://img.shields.io/badge/Postbird-336791?style=for-the-badge&logo=postbird.png&logoColor=white)
 - ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Connect 
