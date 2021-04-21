@@ -2,7 +2,7 @@
 
 My name is Bergan Oudshoorn. I'm currently in App Academy's Full Stack Program.
 
-> Based out of Miramar, Florida
+` Based out of Miramar, Florida `
 
 Actively looking for my first opportunity in software engineering.
 
