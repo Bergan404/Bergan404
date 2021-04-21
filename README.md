@@ -1,10 +1,6 @@
 ![Bergan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergan404&show_icons=true&theme=tokyonight)
 
-My name is Bergan Oudshoorn. I'm currently in App Academy's Full Stack Program.
-
-Based out of Miramar, Florida
-
-Actively looking for my first opportunity in software engineering.
+My name is Bergan Oudshoorn. I'm currently in App Academy's Full Stack Program(24 week course). I'm based out of Miramar, Florida currently and looking to expand to any area possible and willing to grow and learn as time goes on. I'm actively looking for my first opportunity in software engineering and development.
 
 ## Languages I use
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
