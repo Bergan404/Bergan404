@@ -1,4 +1,4 @@
-![Bergan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergan404&show_icons=true&theme=tokyonight)
+![Bergan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergan404&show_icons=true&theme=dark#gh-dark-mode-only)
 
 My name is Bergan Oudshoorn. I'm based out of Fort Lauderdale, Florida currently and looking to expand to any area possible and willing to grow and learn as time goes on. I'm actively looking for a bigger opportunity in software engineering and development.
 
